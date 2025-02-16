@@ -332,7 +332,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/weed3593/Project-Management-App",
+    github: "https://github.com/weed3593/vexa",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -345,8 +345,8 @@ export const projects = [
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
-    github: "https://github.com/weed3593/Quiz-Earn",
-    webapp: "https://github.com/weed3593/Quiz-Earn",
+    github: "https://github.com/weed3593/quiz-app",
+    webapp: "https://github.com/weed3593/quiz-app",
   },
 ];
 
