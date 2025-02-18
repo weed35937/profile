@@ -131,21 +131,24 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
-      .sendForm(
-        "service_tox7kqs",
-        "template_nv7k7mj",
-        form.current,
-        "SybVGsYS52j2TfLbi"
-      )
-      .then(
-        (result) => {
-          alert("Message Sent");
-          form.current.resut();
-        },
-        (error) => {
-          alert(error);
-        }
-      );
+  .sendForm(
+    "service_vpanmms",
+    "template_sjmfbia",
+    form.current,
+    "6AdU372Rb216Zffjs"
+  )
+  .then(
+    (result) => {
+      alert("Message Sent Successfully!");
+      console.log("EmailJS Response:", result);
+      form.current.reset();
+    },
+    (error) => {
+      alert("Oops! Something went wrong. Please try again later. ❌");
+      console.error("EmailJS Error:", error);
+    }
+  );
+
   };
 
   return (
