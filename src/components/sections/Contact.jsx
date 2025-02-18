@@ -130,6 +130,10 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (!form.current) {
+      console.error("Form reference is null!");
+      return;
+    }
     emailjs
   .sendForm(
     "service_vpanmms",
@@ -159,7 +163,7 @@ const Contact = () => {
         <Desc>
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <ContactForm onSubmit={handleSubmit}>
+        <ContactForm onSubmit={handleSubmit} ref={form}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
