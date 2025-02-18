@@ -38,7 +38,7 @@ export const skills = [
       {
         name: "Angular Js",
         image:
-          "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
+          "angular.png",
       },
       {
         name: "HTML",
@@ -197,7 +197,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "adobe.jpeg",
       },
       {
         name: "Figma",
@@ -232,7 +232,7 @@ export const experiences = [
     img: "secondlogo.jpg",
     role:"Back-end Developer",
     company: "Ditstek Innovations",
-    date: "March 2019 - January 2021",
+    date: "March 2019 - October 2021",
     desc: "Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.",
     skills: [
       "Docker",
