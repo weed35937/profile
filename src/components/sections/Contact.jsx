@@ -126,7 +126,7 @@ const ContactButton = styled.input`
 `;
 
 const Contact = () => {
-  const form = useRef();
+  const form = useRef(null);
 
   const handleSubmit = (e) => {
     e.preventDefault();
