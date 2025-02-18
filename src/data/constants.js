@@ -7,7 +7,7 @@ export const Bio = {
   ],
   description:
     "Dynamic Full Stack Developer with 6+ years of experience,excelling in building scalable and efficient web applications.Expertise in developing robust ront-end solutions using React and crafting back-end micro-services with Python and Django. Proven ability to collaborate effectively with cross-functional teams to drive project success and enhance user experiences. Committed to delivering high-quality code and innovative solutions in a fast-paced environment.",
-  github: "https://github.com/weed3593",
+  github: "https://github.com/weed35937",
   resume:
     "https://drive.google.com/file/d/1LMw-GCaFMP9aDpRIosYVsC7XETTKIB0t/view?usp=sharing",
   linkedin: "https://www.linkedin.com/",
@@ -285,7 +285,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/weed3593/Trackify",
+    github: "https://github.com/weed35937/Trackify",
     webapp: "https://trackify-management.netlify.app/",
   },
   {
@@ -298,14 +298,14 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/weed3593/Podstream",
+    github: "https://github.com/weed35937/Podstream",
     webapp: "https://podstream.netlify.app/",
     member: [
       {
         name: "Ryan Cheng",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/weed3593/",
+        github: "https://github.com/weed35937/",
       },
       {
         name: "Upasana Chaudhuri",
@@ -332,7 +332,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/weed3593/Project-Management-App",
+    github: "https://github.com/weed35937/Project-Management-App",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -345,7 +345,7 @@ export const projects = [
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
-    github: "https://github.com/weed3593/quiz-earn",
+    github: "https://github.com/weed35937/quiz-earn",
     webapp: "https://weed3593quizapp.netlify.app/",
   },
 ];
