@@ -10,10 +10,6 @@ export const Bio = {
   github: "https://github.com/weed35937",
   resume:
     "https://drive.google.com/file/d/1LMw-GCaFMP9aDpRIosYVsC7XETTKIB0t/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/",
-  twitter: "#",
-  insta: "#",
-  facebook: "#",
 };
 
 export const skills = [
@@ -300,20 +296,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/weed35937/Podstream",
     webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Ryan Cheng",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/weed35937/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    member: [],
   },
   {
     id: 1,
