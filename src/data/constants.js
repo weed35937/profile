@@ -2,8 +2,7 @@ export const Bio = {
   name: "Ryan Cheng",
   roles: [
     "Full Stack Developer",
-    "UI/UX Designer",
-    "Computer Scientist",
+    "Computer Engineer",
   ],
   description:
     "Dynamic Full Stack Developer with 6+ years of experience,excelling in building scalable and efficient web applications.Expertise in developing robust ront-end solutions using React and crafting back-end micro-services with Python and Django. Proven ability to collaborate effectively with cross-functional teams to drive project success and enhance user experiences. Committed to delivering high-quality code and innovative solutions in a fast-paced environment.",
