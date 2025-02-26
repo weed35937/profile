@@ -9,7 +9,7 @@ export const Bio = {
     "Dynamic Full Stack Developer with 6+ years of experience,excelling in building scalable and efficient web applications.Expertise in developing robust ront-end solutions using React and crafting back-end micro-services with Python and Django. Proven ability to collaborate effectively with cross-functional teams to drive project success and enhance user experiences. Committed to delivering high-quality code and innovative solutions in a fast-paced environment.",
   github: "https://github.com/weed35937",
   resume:
-    "https://drive.google.com/file/d/1pVA2gieS0YlOTFLbnEkJj_bh-moHm9Ml/view?usp=sharing",
+    "https://drive.google.com/file/d/1WsiLlzG3j40xvlg34mZ0s-nlNqg-QRIj/view?usp=sharing",
 };
 
 export const skills = [
@@ -210,7 +210,7 @@ export const experiences = [
     img: "firstlogo.jpeg",
     role: "FullStack Developer",
     company: "SCS Group, Inc.",
-    date: "May 2022 - August 2024",
+    date: "May 2022 - November 2024",
     desc: "Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS. ",
     skills: [
       "NodeJS",
@@ -221,14 +221,14 @@ export const experiences = [
       "Flask",
       "JavaScript",
     ],
-    doc: "https://drive.google.com/file/d/1RH0_B9ZiWwe10kEgvcIOEUiqZASToo_C/view?usp=sharing",
+    doc: "https://drive.google.com/file/d/1rNMn9Wr7ibQ0Dz3_S3BIdCG-kMQkF-yZ/view?usp=sharing",
   },
   {
     id: 1,
     img: "secondlogo.jpg",
     role:"Back-end Developer",
     company: "Ditstek Innovations",
-    date: "March 2019 - October 2021",
+    date: "August 2018 - January 2021",
     desc: "Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.",
     skills: [
       "Docker",
