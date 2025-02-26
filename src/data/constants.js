@@ -242,7 +242,7 @@ export const experiences = [
       "NodeJs",
       "NextJs",
     ],
-    doc: "https://drive.google.com/file/d/1N7DXMwDukZfLN5b5oEjkTAIt-0jLtNp2/view?usp=sharing",
+    doc: "https://drive.google.com/file/d/1RH0_B9ZiWwe10kEgvcIOEUiqZASToo_C/view?usp=sharing",
   }
 ];
 
