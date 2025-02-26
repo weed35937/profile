@@ -1,7 +1,8 @@
 {
   "projects": {
-    "default": "ryancheng-1999222",
-    "ryan": "ryancheng-1999222"
+    "default": "ryanchengdev",
+    "ryan": "ryanchengnew",
+    "ryandev": "ryanchengdev"
   },
   "targets": {},
   "etags": {}
