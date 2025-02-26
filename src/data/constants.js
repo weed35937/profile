@@ -253,7 +253,7 @@ export const education = [
     school: "University of Hong Kong",
     date: "Apr 2016 - Mar 2021",
     grade: "8.41 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science at University of Hong Kong. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I got a Bachelor's degree in Computer Science at University of Hong Kong. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Computer Science",
   }
 ];
