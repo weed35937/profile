@@ -9,7 +9,7 @@ export const Bio = {
     "Dynamic Full Stack Developer with 6+ years of experience,excelling in building scalable and efficient web applications.Expertise in developing robust ront-end solutions using React and crafting back-end micro-services with Python and Django. Proven ability to collaborate effectively with cross-functional teams to drive project success and enhance user experiences. Committed to delivering high-quality code and innovative solutions in a fast-paced environment.",
   github: "https://github.com/weed35937",
   resume:
-    "https://drive.google.com/file/d/1x46b5aYKfSdhiQty9Fc5PtZACUL-3kKm/view?usp=sharing",
+    "https://drive.google.com/file/d/1g712pzgjtDm3VNewSNc_Jfs3sCc9nA2Y/view?usp=sharing",
 };
 
 export const skills = [
