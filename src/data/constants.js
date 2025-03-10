@@ -9,7 +9,7 @@ export const Bio = {
     "Dynamic Full Stack Developer with 6+ years of experience,excelling in building scalable and efficient web applications.Expertise in developing robust ront-end solutions using React and crafting back-end micro-services with Python and Django. Proven ability to collaborate effectively with cross-functional teams to drive project success and enhance user experiences. Committed to delivering high-quality code and innovative solutions in a fast-paced environment.",
   github: "https://github.com/weed35937",
   resume:
-    "https://drive.google.com/file/d/1g712pzgjtDm3VNewSNc_Jfs3sCc9nA2Y/view?usp=sharing",
+    "https://drive.google.com/file/d/181i7A3XTPzaoctaCDsrsd96s6YhR64AE/view?usp=sharing",
 };
 
 export const skills = [
@@ -226,7 +226,7 @@ export const experiences = [
   {
     id: 1,
     img: "secondlogo.jpg",
-    role:"Back-end Developer",
+    role: "Back-end Developer",
     company: "Ditstek Innovations",
     date: "August 2019 - January 2021",
     desc: "Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.",
@@ -251,7 +251,7 @@ export const education = [
     id: 0,
     img: "university.jpeg",
     school: "University of Hong Kong",
-    date: "Apr 2013 - Mar 2018",
+    date: "Dec 2014 - Oct 2018",
     grade: "8.71 CGPA",
     desc: "I got a Bachelor's degree in Computer Science at University of Hong Kong. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Computer Science",
